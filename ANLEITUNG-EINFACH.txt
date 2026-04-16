@@ -1,0 +1,27 @@
+MOOS IQ GAME – NOCH EINFACHERE VERCEL-RENDER-VERSION
+
+DU MUSST NUR NOCH EINE EINZIGE DATEI ÄNDERN:
+
+frontend/public/app-config.js
+
+DORT STEHT:
+https://DEINE-RENDER-URL.onrender.com
+
+DIESE EINE ZEILE ERSETZT DU MIT DEINER ECHTEN RENDER-ADRESSE.
+
+EINFACHE REIHENFOLGE
+
+1. ZIP entpacken
+2. Backend-Ordner auf Render hochladen
+3. Frontend-Ordner auf Vercel hochladen
+4. Nach dem Erstellen des Render-Backends kopierst du die Render-Adresse
+5. Du öffnest diese Datei:
+   frontend/public/app-config.js
+6. Dort ersetzt du nur diese eine Adresse
+7. Danach lädst du das Frontend noch einmal auf Vercel hoch
+
+DAS IST ALLES
+
+WELCHE DATEI MUSST DU ÄNDERN?
+Nur:
+frontend/public/app-config.js

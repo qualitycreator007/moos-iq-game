@@ -1,0 +1,9 @@
+{
+  "name": "Moos IQ Game",
+  "short_name": "Moos IQ",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": []
+}

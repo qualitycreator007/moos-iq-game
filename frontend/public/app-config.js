@@ -1,0 +1,1 @@
+window.__APP_CONFIG__ = { BACKEND_URL: "https://DEINE-RENDER-URL.onrender.com" };\n
